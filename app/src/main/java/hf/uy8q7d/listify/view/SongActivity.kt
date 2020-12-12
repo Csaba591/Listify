@@ -25,8 +25,8 @@ class SongActivity : AppCompatActivity() {
         private const val TAG = "SongActivity"
         const val EXTRA_SONG_ID = "extra.songId"
         const val SERVICE_URL_LYRICS = "https://orion.apiseeds.com/api/music/lyric/"
-        const val API_KEY_LYRICS = "ZTbRbPUTKrn4mzGAiBCl6KNScPL1gI2idZfe03VvzzgUXohFnt3ynZyOgmH5iBQK"
-        const val ACCESS_TOKEN_GENIUS = "UPdgKwhXBnCrI1p2x01gM4lpXJVpFcONAFKOR81IDK7ztLivNsOmv9SVIJKxhLZW"
+        const val API_KEY_LYRICS = "YOUR_API_KEY"
+        const val ACCESS_TOKEN_GENIUS = "YOUR_ACCESS_TOKEN"
         const val SERVICE_URL_GENIUS = "https://api.genius.com/search"
     }
 
