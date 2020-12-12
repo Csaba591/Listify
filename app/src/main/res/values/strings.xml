@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Listify</string>
+    <string name="new_playlist">New playlist</string>
+    <string name="new_song">New song</string>
+    <string name="select_playlist">Select playlist</string>
+    <string name="add">Add</string>
+    <string name="cancel">Cancel</string>
+    <string name="songs_of">Songs of %s</string>
+    <string name="details_for_song">Details for %s</string>
+    <string name="playlist_empty">Looks like you haven\'t added anything to this playlist yet…</string>
+    <string name="lyrics_api_error">Couldn\'t find lyrics for this song :(</string>
+    <string name="loading_lyrics">Loading lyrics…</string>
+</resources>
